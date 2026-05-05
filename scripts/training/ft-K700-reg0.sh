@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Fine-tuning script for Open-VCLIP on Kinetics-700 without MSE regularization.
+# Fine-tuning script for Open-VCLIP on Kinetics-700.
 #
 # This script fine-tunes a model initialized from LOAD_CKPT_FILE and saves the
 # resulting checkpoint under OUTPUT_SUBDIR.
